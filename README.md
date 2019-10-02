@@ -1,2 +1,3 @@
 # CS234_Reinforcement_Learning_Stanford
-斯坦福2019 cs234 强化学习，个人学习的lecturenote翻译笔记以及带笔记ppt
+斯坦福2019 cs234 强化学习，个人学习的lecturenote翻译笔记以及带笔记ppt  
+更新时间按照个人学习进度
